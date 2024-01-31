@@ -1,8 +1,8 @@
-# Major Project 2021 Machine Learning [Materials Informatics Project]
+## Major Project 2021 Machine Learning [Materials Informatics Project]
 
-Author: Radhi Priya J
-Institution: Temasek Polytechnic
-Collaboration with: Kitakyushu NIT, Japan
+### Author: Radhi Priya J
+### Institution: Temasek Polytechnic
+### Collaboration with: Kitakyushu NIT, Japan
 
 1. Introduction
 
@@ -16,6 +16,6 @@ The secondary objective of this project is to develop good models to predict the
 
 3. Scope of the Project
 
-•	Develop software package for materials informatics
-•	Implement recent machine learning techniques for experimental data on chemical physics and to identify the experimental conditions for obtaining good materials.
+# •	Develop software package for materials informatics
+# •	Implement recent machine learning techniques for experimental data on chemical physics and to identify the experimental conditions for obtaining good materials.
 
