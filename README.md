@@ -10,8 +10,7 @@
 
 #### 2. Objectives of the Project
 
-##### The main objective of this project is to develop a software package which will be used by experimentalists. 
-##### The secondary objective of this project is to develop good models to predict the performance of materials from the experimental conditions provided as well as to develop good classifiers to recognize whether the material is good or bad from the image data taken by the experimentalists. 
+##### The main objective of this project is to develop a software package which will be used by experimentalists. The secondary objective of this project is to develop good models to predict the performance of materials from the experimental conditions provided as well as to develop good classifiers to recognize whether the material is good or bad from the image data taken by the experimentalists. 
 
 
 #### 3. Scope of the Project
