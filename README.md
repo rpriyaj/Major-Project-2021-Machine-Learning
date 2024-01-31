@@ -15,5 +15,6 @@ The main objective of this project is to develop a software package which will b
 
 #### 3. Scope of the Project
 •	Develop software package for materials informatics
+
 •	Implement recent machine learning techniques for experimental data on chemical physics and to identify the experimental conditions for obtaining good materials.
 
