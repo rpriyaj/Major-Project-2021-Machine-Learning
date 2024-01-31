@@ -1,8 +1,9 @@
 ## Major Project 2021 Machine Learning [Materials Informatics Project]
 
 ### Author: Radhi Priya J
+### Supervisor: Ms Nami Imanishi
 ### Institution: Temasek Polytechnic
-### Collaboration with: Kitakyushu NIT, Japan
+### Industry Partner: National Institute of Technology, Kitakyushu College, Japan
 
 #### 1. Introduction
 
@@ -18,3 +19,23 @@ The main objective of this project is to develop a software package which will b
 
 •	Implement recent machine learning techniques for experimental data on chemical physics and to identify the experimental conditions for obtaining good materials.
 
+#### 4. Project Details
+1. To develop an user interface to deploy the software, tkinter package ("Tk interface") was used.
+2. It is the standard Python Interface to the Tk GUI toolkit.
+3. Interface allow experimentalists to import a CSV file and select a Regression Method.
+4. Upon selecting a regression method, a dialog opens for users to enter hyperparameter values for the chosen method.
+5. After which, results from the regression analysis will be displayed.
+
+#### 5. Key Benefits
+1. Financially less burden for material scientistis to carry out experiments
+2. Ability to try out different formulations in least amount of time
+
+#### 6. Key Technologies used
+- Visual Studio Code
+- Tkinter Library
+- Python
+
+#### 7. Potential Enhancements
+- Include automatic hyperparameter tuning to automatically improve accuracy
+- Implement different types of models to try and test out different formulations
+  
